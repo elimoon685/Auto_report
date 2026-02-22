@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}资金面：DR001 / DR007 与 OMO 对冲}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}DR001 vs DR007：期限结构性紧张的识别}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}DR007 vs OMO 7D净投放：政策对冲与利率回落}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}银行负债：NCD水平与利差（流动性/压力指标）}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}NCD AAA（3M/6M/1Y）与 DR007：短端冲击是否传导到中期负债}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}NCD利差：NCD-DR007 的压力刻画}{5}{subsection.2.2}%
+\contentsline {section}{\numberline {3}利率曲线：期限利差、曲线形态与长端定价}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}期限利差：10Y-1Y 与 10Y-3M}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}收益率曲线快照：2025-12-01 vs 2026-01-30}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}10Y vs DR007：资金面与长端的“脱钩/再耦合”}{7}{subsection.3.3}%
+\contentsline {section}{\numberline {4}宏观：社融结构、PMI与通胀（CPI/PPI）}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}社融结构拆分：贷款、票据与债券}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}PMI：景气线附近的边际变化}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}CPI \& PPI：通胀/通缩环境对长端的约束}{9}{subsection.4.3}%
+\contentsline {section}{\numberline {5}政策与信用供给：MLF净投放与社融增量}{9}{section.5}%
+\contentsline {section}{\numberline {6}综合判断与观察清单}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}当前组合信号}{10}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}未来两周/两月的关键观察指标}{10}{subsection.6.2}%

@@ -1,0 +1,152 @@
+{
+  "head": {
+    "version": "2.0",
+    "provider": "CWAP",
+    "req_code": "",
+    "rep_code": "200",
+    "rep_message": "",
+    "ts": 1771670731380,
+    "producer": "",
+    "tstext": "2026-02-21 18:45:31"
+  },
+  "data": {
+    "reference": [
+      "1"
+    ],
+    "nowDate": "2026-02-21 18:45:31",
+    "endDateCN": "2026-01-31",
+    "total": 357,
+    "pageTotal": 24,
+    "firstBondType": "CYCC41B",
+    "pageSize": 15,
+    "startDateCN": "2026-01-01",
+    "showKey": "1,",
+    "dateList": [
+      "2026-01-30"
+    ],
+    "message": null,
+    "pageNum": 1
+  },
+  "records": [
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.019",
+      "maturityYieldStr": "1.4450",
+      "currentYieldStr": "1.4450",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.038",
+      "maturityYieldStr": "1.4867",
+      "currentYieldStr": "1.4867",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.058",
+      "maturityYieldStr": "1.4928",
+      "currentYieldStr": "1.4928",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.083",
+      "maturityYieldStr": "1.5000",
+      "currentYieldStr": "1.5000",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.125",
+      "maturityYieldStr": "1.5530",
+      "currentYieldStr": "1.5530",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.167",
+      "maturityYieldStr": "1.5530",
+      "currentYieldStr": "1.5530",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.208",
+      "maturityYieldStr": "1.5800",
+      "currentYieldStr": "1.5800",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.25",
+      "maturityYieldStr": "1.5800",
+      "currentYieldStr": "1.5800",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.333",
+      "maturityYieldStr": "1.5822",
+      "currentYieldStr": "1.5822",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.417",
+      "maturityYieldStr": "1.5835",
+      "currentYieldStr": "1.5835",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.5",
+      "maturityYieldStr": "1.5967",
+      "currentYieldStr": "1.5967",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.583",
+      "maturityYieldStr": "1.5975",
+      "currentYieldStr": "1.5975",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.667",
+      "maturityYieldStr": "1.5975",
+      "currentYieldStr": "1.5975",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.75",
+      "maturityYieldStr": "1.5975",
+      "currentYieldStr": "1.5975",
+      "futureYieldStr": "---"
+    },
+    {
+      "newDateValueCN": "2026-01-30",
+      "newDateValue": "30 Jan 2026",
+      "yearTermStr": "0.833",
+      "maturityYieldStr": "1.6000",
+      "currentYieldStr": "1.6000",
+      "futureYieldStr": "---"
+    }
+  ]
+}
